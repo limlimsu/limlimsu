@@ -1,5 +1,6 @@
 ## MY animals Farm 
-![My animals](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2FNyan%2520Cat&psig=AOvVaw3g6zmxIoAkzJAyGqAzI4jB&ust=1745407246660000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCND6h-nC64wDFQAAAAAdAAAAABAO)
+![Dancing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 
 ## HELLO! I'm a passionate and  computer engineering student of Chungbuk National University 
 

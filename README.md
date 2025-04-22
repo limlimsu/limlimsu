@@ -3,6 +3,11 @@
 <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="300"/>
 ![Running Dog](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="300"/>
+</div>
+
+
 
 ## HELLO! I'm a passionate and  computer engineering student of Chungbuk National University 
 

@@ -1,16 +1,16 @@
-# 👋 Hey there! I'm limlimsu
+## Hey there! I'm limlimsu
 
-I'm a developer who loves building things, breaking things, and learning from both.  
-Currently learning new stuff every day and trying to level up one line of code at a time.  
+I'm a passionate and  computer engineering student of Chungbuk National University 
+I’m currently learning Open Source Professional Project, Data communication and Programming Languages. 
 
 ---
 
 ## 🛠 Tech Stack
 
 ![C](https://img.shields.io/badge/C-Basics-informational?logo=c)
-![C#](https://img.shields.io/badge/C%23-Unity%20Dev-blueviolet?logo=c-sharp)
 ![Python](https://img.shields.io/badge/Python-Learning-yellow?logo=python)
 ![Git](https://img.shields.io/badge/Git-Always%20Committing-orange?logo=git)
+![Java](https://img.shields.io/badge/Java-Object%20Oriented-informational?logo=java)
 
 ---
 
@@ -62,14 +62,10 @@ I’m always open to learning and sharing ideas 💬
   <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="450"/>
 </p>
 
-## I'm a passionate and  computer engineering student of Chungbuk National University 
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Open Source Professional Project, Data communication and Programming Languages. 
+ 
 - 👯 I’m looking to collaborate on open source projects, AI, Java, Python.
 - 🤔 I’m looking for help with Docker, linux, Python project
 - 💬 Ask me about C, Python
 - 📫 How to reach me : soohwan2392@gmail.com or korean people touch me to lym2392@naver.com
-- 😄 Pronouns: he, him
-- ⚡ Fun fact: I love cats 
+
 

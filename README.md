@@ -38,12 +38,16 @@ I’m always open to learning and sharing ideas 💬
 - 💬 Ask me about C, Python
 
 
+## 🐱 
+
+```c
 #include <stdio.h>
 
 int main() {
-    printf("   /\\_/\\   \n");
-    printf("  ( *.* )  \n");
-    printf("  > ^ <    \n");
+    printf("   /\\_/\\   \\n");
+    printf("  ( *.* )  \\n");
+    printf("  > ^ <    \\n");
     return 0;
 }
+
 

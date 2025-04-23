@@ -1,6 +1,7 @@
 ## Hey there! I'm limlimsu
 
-I'm a passionate and  computer engineering student of Chungbuk National University 
+I'm a passionate and  computer engineering student of Chungbuk National University.
+
 I’m currently learning Open Source Professional Project, Data communication and Programming Languages. 
 
 ---
@@ -12,27 +13,27 @@ I’m currently learning Open Source Professional Project, Data communication an
 ![Git](https://img.shields.io/badge/Git-Always%20Committing-orange?logo=git)
 ![Java](https://img.shields.io/badge/Java-Object%20Oriented-informational?logo=java)
 ---
-<img src ="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
+<img src ="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" height="200"/>
+---
 
 ## 🌱 Currently...
 
 -  
-- Learning more about data structures, java, python  
+- Learning more about data java, python, c  
 - Trying to write better code — not just code that works
+---
 
----
-<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="200"/>
----
 ## 🧠 Fun Fact
 
 I talk to myself when debugging.  
 ...and it actually helps. 🤯
-
+<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="200"/>
+📫 How to reach me : soohwan2392@gmail.com or korean people touch me to lym2392@naver.com
 ---
 
-## ✨ Let's connect!
+## ✨ Contact me to share programming information!
 
-If you're working on something cool or want to chat about game dev, hit me up!  
+If you're working on something cool or want to chat, hit me up!  
 I’m always open to learning and sharing ideas 💬
 
 ---
@@ -42,6 +43,3 @@ I’m always open to learning and sharing ideas 💬
 - 👯 I’m looking to collaborate on open source projects, AI, Java, Python.
 - 🤔 I’m looking for help with Docker, linux, Python project
 - 💬 Ask me about C, Python
-- 📫 How to reach me : soohwan2392@gmail.com or korean people touch me to lym2392@naver.com
-
-

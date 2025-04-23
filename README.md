@@ -42,13 +42,13 @@ I’m currently learning Open Source Professional Project, Data communication an
 
 ---
 
-## 🐱
+## 🐱 Meow
 
 ```c
 #include <stdio.h>
 
 int main() {
-    printf("        /\\_____/\\  \n");
+    printf("        /\\_____/\\  ");
     printf("       /  o   o  \\ \n");
     printf("      ( ==  ^  == )\n");
     printf("       )         ( \n");

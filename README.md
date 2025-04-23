@@ -41,7 +41,7 @@ I’m currently learning Open Source Professional Project, Data communication an
 
 ---
 
-# 😎 "Still learning. Still building. Still having fun."
+## 😎 "Still learning. Still building. Still having fun."
  
 -  I’m looking to collaborate on open source projects, AI, Java, Python.
 -  I’m looking for help with Docker, linux, java.

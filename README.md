@@ -24,7 +24,7 @@ I’m currently learning Open Source Professional Project, Data communication an
 - Learning more about java, python and c.
 - Trying to write better code — not just code that works.
 - Grow my GitHub as a portfolio and record of my development journey.
-- 
+  
 ---
 
 ## ✨ Contact me to share programming knowledge!

@@ -51,18 +51,32 @@ I’m currently learning Open Source Professional Project, Data communication an
 ### Browse through my repositories to see what I've been working on. Hope you find something interesting!
 
 ```c
+
 #include <stdio.h>
 
+const char* catArt[] = {
+    "        /\\_____/\\  ",
+    "       /  o   o  \\  ",
+    "      ( ==  ^  == )  ",
+    "       )         (   ",
+    "      (           )  ",
+    "     ( (  )   (  ) ) ",
+    "    (__(__)___(__)__)"
+};
+
+void printCat() {
+    int lines = sizeof(catArt) / sizeof(catArt[0]);
+    for (int i = 0; i < lines; ++i) {
+        printf("%s\n", catArt[i]);
+    }
+}
+
 int main() {
-    printf("        /\\_____/\\  \n");
-    printf("       /  o   o  \\  \n");
-    printf("      ( ==  ^  == )  \n");
-    printf("       )         (   \n");
-    printf("      (           )  \n");
-    printf("     ( (  )   (  ) ) \n");
-    printf("    (__(__)___(__)__)\n");
+    printf("🐾 Hello, GitHub World!\n\n");
+    printCat();
     return 0;
 }
+
 
 
 

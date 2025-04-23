@@ -4,7 +4,8 @@ I'm a passionate and  computer engineering student of Chungbuk National Universi
 I’m currently learning Open Source Professional Project, Data communication and Programming Languages. 
 
 ---
-
+<img src ="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
+---
 ## 🛠 Tech Stack
 
 ![C](https://img.shields.io/badge/C-Basics-informational?logo=c)
@@ -21,17 +22,12 @@ I’m currently learning Open Source Professional Project, Data communication an
 - Trying to write better code — not just code that works
 
 ---
-
+<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="450"/>
+---
 ## 🧠 Fun Fact
 
 I talk to myself when debugging.  
 ...and it actually helps. 🤯
-
----
-
-## 📊 GitHub Stats
-
-![limlimsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=limlimsu&show_icons=true&theme=gruvbox)
 
 ---
 
@@ -42,26 +38,7 @@ I’m always open to learning and sharing ideas 💬
 
 ---
 
-## 🐾 Bonus: Here’s a cat and a dog because why not
-
-<div align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="150"/>
-</div>
-
----
-
 > "Still learning. Still building. Still having fun."
-
-
-
-
-## HELLO WORLD !
-<p float="left">
-  <img src ="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="450"/>
-</p>
-
  
 - 👯 I’m looking to collaborate on open source projects, AI, Java, Python.
 - 🤔 I’m looking for help with Docker, linux, Python project

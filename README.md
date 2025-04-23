@@ -36,3 +36,14 @@ I’m always open to learning and sharing ideas 💬
 - 👯 I’m looking to collaborate on open source projects, AI, Java, Python.
 - 🤔 I’m looking for help with Docker, linux, Python project
 - 💬 Ask me about C, Python
+
+
+#include <stdio.h>
+
+int main() {
+    printf("   /\\_/\\   \n");
+    printf("  ( *.* )  \n");
+    printf("  > ^ <    \n");
+    return 0;
+}
+

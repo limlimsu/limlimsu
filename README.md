@@ -1,92 +1,57 @@
-# ⚔️ Code. Grind. Level Up.
+# 👋 Hey there! I'm limlimsu
 
-### I'm **limlimsu** – a developer who doesn’t talk much, but builds strong things.
-
-> "I don’t aim to be flashy.  
-> I aim to be unbreakable."  
-> — limlimsu
+I'm a developer who loves building things, breaking things, and learning from both.  
+Currently learning new stuff every day and trying to level up one line of code at a time.  
 
 ---
 
-## 🧰 Tech Arsenal
+## 🛠 Tech Stack
 
-![C](https://img.shields.io/badge/C-Low%20Level%20Master-blue?logo=c)
-![C#](https://img.shields.io/badge/C%23-Unity%20Knight-green?logo=c-sharp)
-![Python](https://img.shields.io/badge/Python-Script%20Ninja-yellow?logo=python)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
-![Docker](https://img.shields.io/badge/Docker-Container%20Crafter-blue?logo=docker)
-
----
-
-## 🧪 Currently Grinding...
-
-- Building Unity 2D/3D games  
-- Writing reusable tools and systems  
-- Diving deeper into C & low-level logic  
-- Strengthening my architecture & design skills  
-- Leveling up... quietly
+![C](https://img.shields.io/badge/C-Basics-informational?logo=c)
+![C#](https://img.shields.io/badge/C%23-Unity%20Dev-blueviolet?logo=c-sharp)
+![Python](https://img.shields.io/badge/Python-Learning-yellow?logo=python)
+![Git](https://img.shields.io/badge/Git-Always%20Committing-orange?logo=git)
 
 ---
 
-## 📈 Activity Stats
+## 🌱 Currently...
 
-![limlimsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=limlimsu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limlimsu&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=limlimsu&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+- Working on Unity 2D/3D projects (I love game dev!) 🎮  
+- Learning more about data structures, design patterns, and clean code  
+- Trying to write better code — not just code that works
 
 ---
 
-## 🌈 Side Aura
+## 🧠 Fun Fact
+
+I talk to myself when debugging.  
+...and it actually helps. 🤯
+
+---
+
+## 📊 GitHub Stats
+
+![limlimsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=limlimsu&show_icons=true&theme=gruvbox)
+
+---
+
+## ✨ Let's connect!
+
+If you're working on something cool or want to chat about game dev, hit me up!  
+I’m always open to learning and sharing ideas 💬
+
+---
+
+## 🐾 Bonus: Here’s a cat and a dog because why not
 
 <div align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="150"/>
 </div>
 
 ---
 
-## ⚡ Last Words
-
-> I’m not the best — yet.  
-> But I’m the one who shows up every day.  
-> No shortcuts. Just sharpened skills and persistence.
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> "Still learning. Still building. Still having fun."
 
 
 

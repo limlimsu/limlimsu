@@ -23,15 +23,13 @@ I’m currently learning Open Source Professional Project, Data communication an
 
 ---
 
-<img src ="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" height="300"/>
-
----
-
 ## 🌱 Currently...
 
 - Learning more about java, python and c.
 - Trying to write better code — not just code that works.
 - Grow my GitHub as a portfolio and record of my development journey.
+
+<img src ="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" height="300"/>
   
 ---
 

@@ -48,7 +48,7 @@ I’m currently learning Open Source Professional Project, Data communication an
 
 ---
 
-## 🐱 Meow
+# Browse through my repositories to see what I've been working on. Hope you find something interesting!
 
 ```c
 #include <stdio.h>

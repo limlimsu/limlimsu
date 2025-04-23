@@ -13,7 +13,7 @@ I’m currently learning Open Source Professional Project, Data communication an
 ![Git](https://img.shields.io/badge/Git-Always%20Committing-orange?logo=git)
 ![Java](https://img.shields.io/badge/Java-Object%20Oriented-informational?logo=java)
 ---
-<img src ="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" height="200"/>
+<img src ="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" height="300"/>
 
 ---
 

@@ -29,25 +29,32 @@ I’m currently learning Open Source Professional Project, Data communication an
 If you're working on something cool or want to chat, hit me up!  
 I’m always open to learning and sharing ideas 💬
 📫 How to reach me : soohwan2392@gmail.com or korean people touch me to lym2392@naver.com
+
 ---
 
-> "Still learning. Still building. Still having fun."
+# "Still learning. Still building. Still having fun."
  
 - 👯 I’m looking to collaborate on open source projects, AI, Java, Python.
 - 🤔 I’m looking for help with Docker, linux, Python project
 - 💬 Ask me about C, Python
 
+## 🐱
 
-## 🐱 
+### 🔧 Code (C)
 
 ```c
 #include <stdio.h>
 
 int main() {
-    printf("   /\\_/\\   \\n");
-    printf("  ( *.* )  \\n");
-    printf("  > ^ <    \\n");
+    printf("        /\\_____/\\  \n");
+    printf("       /  o   o  \\ \n");
+    printf("      ( ==  ^  == )\n");
+    printf("       )         ( \n");
+    printf("      (           )\n");
+    printf("     ( (  )   (  ) )\n");
+    printf("    (__(__)___(__)__)\n");
     return 0;
 }
+
 
 

@@ -1,4 +1,4 @@
-## Hey there! I'm limlimsu
+## 🌍 Hey there! I'm limlimsu
 
 ![MuaKissGIF](https://github.com/user-attachments/assets/af6e90c7-e0c4-417b-8731-2f1d41b0bf48)
 
@@ -28,16 +28,16 @@ I’m currently learning Open Source Professional Project, Data communication an
 
 ## ✨ Contact me to share programming knowledge!
 
-If you're working on something cool or want to chat, hit me up!  
-I’m always open to learning and sharing ideas 💬
-📫 How to reach me : soohwan2392@gmail.com or korean people touch me to lym2392@naver.com
+- If you're working on something cool or want to chat, hit me up!  
+- I’m always open to learning and sharing ideas 💬
+- How to reach me : soohwan2392@gmail.com or korean people touch me to lym2392@naver.com
 
 ---
 
-# "Still learning. Still building. Still having fun."
+# 😎 "Still learning. Still building. Still having fun."
  
-- 👯 I’m looking to collaborate on open source projects, AI, Java, Python.
-- 🤔 I’m looking for help with Docker, linux, java.
+-  I’m looking to collaborate on open source projects, AI, Java, Python.
+-  I’m looking for help with Docker, linux, java.
 
 ---
 

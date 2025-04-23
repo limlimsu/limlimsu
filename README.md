@@ -1,5 +1,5 @@
 ## HELLO WORLD !
-![Dancing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Dancing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif width="300"/)
 <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="300"/>
 
 ## I'm a passionate and  computer engineering student of Chungbuk National University 

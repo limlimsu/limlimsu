@@ -16,12 +16,12 @@ I’m currently learning Open Source Professional Project, Data communication an
 
 ## 🌱 Currently...
 
-- Working on Unity 2D/3D projects (I love game dev!) 🎮  
-- Learning more about data structures, design patterns, and clean code  
+-  
+- Learning more about data structures, java, python  
 - Trying to write better code — not just code that works
 
 ---
-<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="200"/>
 ---
 ## 🧠 Fun Fact
 

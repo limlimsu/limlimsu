@@ -48,12 +48,12 @@ I’m currently learning Open Source Professional Project, Data communication an
 #include <stdio.h>
 
 int main() {
-    printf("        /\\_____/\\  ");
-    printf("       /  o   o  \\ \n");
-    printf("      ( ==  ^  == )\n");
-    printf("       )         ( \n");
-    printf("      (           )\n");
-    printf("     ( (  )   (  ) )\n");
+    printf("        /\\_____/\\  \n");
+    printf("       /  o   o  \\  \n");
+    printf("      ( ==  ^  == )  \n");
+    printf("       )         (   \n");
+    printf("      (           )  \n");
+    printf("     ( (  )   (  ) ) \n");
     printf("    (__(__)___(__)__)\n");
     return 0;
 }

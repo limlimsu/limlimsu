@@ -1,4 +1,4 @@
-## 🌍 Hey there! I'm limlimsu
+## 🌍 Hello world, I'm limlimsu.
 
 ![MuaKissGIF](https://github.com/user-attachments/assets/af6e90c7-e0c4-417b-8731-2f1d41b0bf48)
 

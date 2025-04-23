@@ -14,7 +14,15 @@ I’m currently learning Open Source Professional Project, Data communication an
 ![Python](https://img.shields.io/badge/Python-Learning-yellow?logo=python)
 ![Git](https://img.shields.io/badge/Git-Always%20Committing-orange?logo=git)
 ![Java](https://img.shields.io/badge/Java-Object%20Oriented-informational?logo=java)
+
 ---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=github_dark)
+
+---
+
 <img src ="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" height="300"/>
 
 ---

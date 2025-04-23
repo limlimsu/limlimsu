@@ -1,5 +1,7 @@
 ## Hey there! I'm limlimsu
 
+![MuaKissGIF](https://github.com/user-attachments/assets/af6e90c7-e0c4-417b-8731-2f1d41b0bf48)
+
 I'm a passionate and  computer engineering student of Chungbuk National University.
 
 I’m currently learning Open Source Professional Project, Data communication and Programming Languages. 
@@ -35,8 +37,9 @@ I’m always open to learning and sharing ideas 💬
 # "Still learning. Still building. Still having fun."
  
 - 👯 I’m looking to collaborate on open source projects, AI, Java, Python.
-- 🤔 I’m looking for help with Docker, linux, Python project
-- 💬 Ask me about C, Python
+- 🤔 I’m looking for help with Docker, linux, java.
+
+---
 
 ## 🐱
 

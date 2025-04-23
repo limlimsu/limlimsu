@@ -18,24 +18,16 @@ I’m currently learning Open Source Professional Project, Data communication an
 
 ## 🌱 Currently...
 
--  
 - Learning more about data java, python, c  
 - Trying to write better code — not just code that works
----
 
-## 🧠 Fun Fact
-
-I talk to myself when debugging.  
-...and it actually helps. 🤯
-<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="200"/>
-📫 How to reach me : soohwan2392@gmail.com or korean people touch me to lym2392@naver.com
 ---
 
 ## ✨ Contact me to share programming information!
 
 If you're working on something cool or want to chat, hit me up!  
 I’m always open to learning and sharing ideas 💬
-
+📫 How to reach me : soohwan2392@gmail.com or korean people touch me to lym2392@naver.com
 ---
 
 > "Still learning. Still building. Still having fun."

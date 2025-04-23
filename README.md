@@ -1,7 +1,6 @@
-## MY animals Farm 
+## HELLO WORLD !
 ![Dancing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="300"/>
-![Running Dog](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
 
 <div align="center">
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="300"/>
@@ -9,7 +8,7 @@
 
 
 
-## HELLO! I'm a passionate and  computer engineering student of Chungbuk National University 
+## I'm a passionate and  computer engineering student of Chungbuk National University 
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Open Source Professional Project, Data communication and Programming Languages. 

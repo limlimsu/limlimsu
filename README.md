@@ -14,6 +14,7 @@ I’m currently learning Open Source Professional Project, Data communication an
 ![Java](https://img.shields.io/badge/Java-Object%20Oriented-informational?logo=java)
 ---
 <img src ="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" height="200"/>
+
 ---
 
 ## 🌱 Currently...
@@ -23,7 +24,7 @@ I’m currently learning Open Source Professional Project, Data communication an
 
 ---
 
-## ✨ Contact me to share programming information!
+## ✨ Contact me to share programming knowledge!
 
 If you're working on something cool or want to chat, hit me up!  
 I’m always open to learning and sharing ideas 💬

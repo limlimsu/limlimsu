@@ -19,7 +19,7 @@ I’m currently learning Open Source Professional Project, Data communication an
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limlimsu&layout=compact&langs_count=8&theme=github_dark)
 
 ---
 

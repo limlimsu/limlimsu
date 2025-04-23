@@ -40,8 +40,6 @@ I’m always open to learning and sharing ideas 💬
 
 ## 🐱
 
-### 🔧 Code (C)
-
 ```c
 #include <stdio.h>
 

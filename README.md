@@ -4,15 +4,14 @@ I'm a passionate and  computer engineering student of Chungbuk National Universi
 I’m currently learning Open Source Professional Project, Data communication and Programming Languages. 
 
 ---
-<img src ="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
----
+
 ## 🛠 Tech Stack
 
 ![C](https://img.shields.io/badge/C-Basics-informational?logo=c)
 ![Python](https://img.shields.io/badge/Python-Learning-yellow?logo=python)
 ![Git](https://img.shields.io/badge/Git-Always%20Committing-orange?logo=git)
 ![Java](https://img.shields.io/badge/Java-Object%20Oriented-informational?logo=java)
-
+<img src ="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
 ---
 
 ## 🌱 Currently...

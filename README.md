@@ -76,7 +76,3 @@ int main() {
     printCat();
     return 0;
 }
-
-### 💻 Output
-
-
